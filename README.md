@@ -1,7 +1,7 @@
 # Nook — Instagram-style Full-Stack App
 
 🔗 **Live**: [nook-gilt.vercel.app](https://nook-gilt.vercel.app/)
-📦 **Repo**: [github.com/your-username/nook](https://github.com/your-username/nook)
+📦 **Repo**: [github.com/your-username/nook](https://github.com/wsmkhan2580/nook.git)
 
 ## Pages
 - `/` — Landing page
